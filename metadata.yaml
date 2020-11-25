@@ -21,6 +21,9 @@ contributor:
     gutenberg_agent_id: '52559'
     url: http://www.gutenberg.org/2009/agents/52559
     wikipedia: https://en.wikipedia.org/wiki/Walter_Franklin_Prince
+covers:
+- cover_type: archival
+  image_path: 63693-h/images/cover.jpg
 creator:
   author:
     agent_name: Sinclair, Upton
@@ -34,6 +37,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/88
     wikipedia: http://en.wikipedia.org/wiki/Upton_Sinclair
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63693#Mental-Radio
 gutenberg_issued: '2020-11-09'
 gutenberg_type: Text
 identifiers:
